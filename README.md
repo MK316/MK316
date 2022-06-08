@@ -2,7 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet)
 
 MK316 is a research and language educator, affiliated to GNU, South Korea.
-* Interested in: 
+**Interested in:**
+
 >* Application assisted language teaching, 
 >* Customized activity tools for language teaching/learning environment
 >* Text-to-Speech, Speech recognition, Gradio, NLP
