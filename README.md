@@ -1,11 +1,11 @@
-### Hi there 👋
+### 🐸 Welcome to MK316's Github Page
 
 
 ![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet)
 
 
 <!--
-**MK316/MK316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MK316/MK316** is a ✨ _researcher & educator_ ✨ in linguistics, interested in language education and speech analysis.
 
 Here are some ideas to get you started:
 
