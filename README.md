@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet)
 
 **📍 MK316** is a research and language educator.  
-**📍 Affiliation:** GNU, Jinju, 🇰🇷 South Korea.
+**📍 Affiliation:** GNU, Jinju, 🇰🇷 South Korea.  
 **📍 Interested in:**
 
 >* Application assisted language teaching, 
