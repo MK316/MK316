@@ -3,7 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=VISIT+COUNT)
 
 <!--
 **MK316/MK316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
