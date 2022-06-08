@@ -1,7 +1,9 @@
 ### 🐸 Welcome to MK316's Github Page
 ![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet)
 
-MK316 is a research and language educator, affiliated in GNU.
+MK316 is a research and language educator, affiliated to GNU, South Korea.
+* Interested in Application assisted language teaching, customized activity tools for language teaching/learning environment
+* 
 
 <!--
 **MK316/MK316** is a ✨ _researcher & educator_ ✨ in linguistics, interested in language education and speech analysis.
