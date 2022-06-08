@@ -3,8 +3,9 @@
 
 MK316 is a research and language educator, affiliated to GNU, South Korea.
 * Interested in: 
->* Application assisted language teaching, Customized activity tools for language teaching/learning environment
-* 
+>* Application assisted language teaching, 
+>* Customized activity tools for language teaching/learning environment
+>* Text-to-Speech, Speech recognition, Gradio, NLP
 
 <!--
 **MK316/MK316** is a ✨ _researcher & educator_ ✨ in linguistics, interested in language education and speech analysis.
