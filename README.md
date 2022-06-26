@@ -1,7 +1,7 @@
 ### 🐸 Welcome to MK316's Github Page
 ![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet)
 
-**📍 MK316** is a research and language educator.  
+**📍 MK316** is a researcher and language educator.  
 **📍 Affiliation:** GNU, Jinju, 🇰🇷 South Korea.  
 **📍 Interested in:**
 
