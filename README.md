@@ -1,4 +1,4 @@
-### 🐸 Welcome to MK316's Github
+### 🐸 Welcome to MK316's Github (since Feb. 11, 2022)
 ![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet)
 
 **📍 MK316** is a researcher and language educator.  
