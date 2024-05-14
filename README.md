@@ -6,7 +6,7 @@
 **📍 Affiliation:** GNU, Jinju, 🇰🇷 South Korea.  
 **📍 Interested in:**
 
->* Application assisted language teaching, 
+>* Application assisted language teaching, coding based language application 
 >* Customized activity tools for language teaching/learning environment
 >* Text-to-Speech, Speech recognition, Gradio, NLP
 
