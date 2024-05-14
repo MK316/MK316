@@ -7,7 +7,7 @@
 **📍 Interested in:**
 
 >* Application assisted language teaching, coding based language application 
->* Customized activity tools for language teaching/learning environment
+>* Customized activity tools for language teaching/learning
 >* Text-to-Speech, Speech recognition, Gradio, NLP
 
 <!--
