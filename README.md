@@ -8,7 +8,7 @@
 
 >* Application assisted language teaching, coding based language application 
 >* Customized activity tools for language teaching/learning
->* Text-to-Speech, Speech recognition, Gradio, NLP
+>* Text-to-Speech, Speech recognition, Web-based app, Streamlit, NLP
 
 <!--
 **MK316/MK316** is a ✨ _researcher & educator_ ✨ in linguistics, interested in language education and speech analysis.
